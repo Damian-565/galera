@@ -4,7 +4,7 @@ import './styl.css';
 
 Modal.setAppElement('#root');
 
-// Nowe kategorie z nazwami Zwierzęta, Natura, Miasta
+
 const categories = [
   { id: 1, name: 'Zwierzęta', images: ['animals1.jpg', 'animals2.jpg', 'animals3.jpg'] },
   { id: 2, name: 'Natura', images: ['nature1.jpg', 'nature2.jpg', 'nature3.jpg'] },
